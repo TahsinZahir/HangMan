@@ -24,7 +24,7 @@ return(
     <div className="flex">
             <Button
             text="Ok"
-            type="submit"
+            buttonType="submit"
             />
         </div>
 </form>
